@@ -1,5 +1,5 @@
 ---
-layout: intro-image
+layout: intro
 class: "bg-black"
 ---
 
