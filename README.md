@@ -6,5 +6,5 @@
 ## Use case
 
 ```sh
-npm run slidev:YYYYMMDD.md
+npm run dev:YYYYMMDD.md
 ```
