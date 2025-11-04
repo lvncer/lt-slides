@@ -4,15 +4,16 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
+    "dev:20250930": "slidev --open slides/20250930.md",
     "dev:20250630": "slidev --open slides/20250630.md",
     "dev:20250530": "slidev --open slides/20250530.md",
     "build": "npm run build",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^51.8.2",
+    "@slidev/cli": "latest",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "vue": "^3.5.16"
+    "vue": "latest"
   }
 }
